@@ -10,6 +10,7 @@ HTML,
 CSS,
 Godot,
 SQL,
+Bash
 
 #### Languages I can speak (in order of profficiency):
 English,
