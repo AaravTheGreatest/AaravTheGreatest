@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Aarav, a high school student graduating in 2026
-#### Coding languages I know:
+#### Programming languages I know:
 Python,
 C++,
 PHP,
