@@ -19,7 +19,7 @@ German,
 Spanish,
 Japanese
 
-![My stats](https://github-readme-stats.vercel.app/api?username=probablyAarav&show_icons=true&theme=merko)
+![My stats](https://github-readme-stats.vercel.app/api?username=probablyAarav&show_icons=true&theme=midnight-purple)
 
 <!--
 **ProbablyAarav/ProbablyAarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
