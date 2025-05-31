@@ -1,16 +1,16 @@
 ## Hi there 👋
 ### I'm Aarav, a high school student graduating in 2026
 #### Programming languages I know:
-Python,
-C++,
-PHP,
+C/C++,
 Java,
+Python,
 Javascript,
+Bash,
 HTML,
 CSS,
-Godot,
+PHP,
 SQL,
-Bash
+Godot
 
 #### Languages I can speak (in order of profficiency):
 English,
