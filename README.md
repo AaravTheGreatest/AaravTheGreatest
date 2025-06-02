@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### I'm Aarav, a high school student graduating in 2026
 #### Programming languages I know:
-C/C++,
+C++,
+C,
 Java,
 Python,
 Javascript,
