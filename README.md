@@ -1,17 +1,18 @@
 ## Hi there 👋
 ### I'm Aarav, a high school student graduating in 2026
-#### Programming languages I know:
+#### Programming languages I know (in order of proficiency):
 C++,
 C,
 Java,
+Bash,
 Python,
 Javascript,
-Bash,
 HTML,
 CSS,
 PHP,
 SQL,
-Godot
+ASM x86
+
 
 #### Languages I can speak (in order of profficiency):
 English,
