@@ -14,6 +14,13 @@ SQL,
 ASM x86
 
 
+#### Editors I use:
+Neovim
+Vim
+Emacs
+VS Code
+Atom
+
 #### Languages I can speak (in order of profficiency):
 English,
 Hindi,
