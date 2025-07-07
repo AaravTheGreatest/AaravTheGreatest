@@ -15,10 +15,11 @@ ASM x86
 
 
 #### Editors I use:
-Neovim
-Vim
-Emacs
-VS Code
+Neovim,
+Vim,
+Emacs,
+VS Code,
+Helix,
 Atom
 
 #### Languages I can speak (in order of profficiency):
